@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#ffffff">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="440dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:background="#fff">
+        <LinearLayout
+            android:layout_width="305dp"
+            android:layout_height="430dp"
+            android:orientation="vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:background="#fff">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/detailTitle"
+                    android:layout_width="300dp"
+                    android:layout_height="25dp"
+                    android:layout_weight="0.74"
+                    android:gravity="left|center"
+                    android:text="Delight Cooking Oil"
+                    android:textColor="#000"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/detailPrice"
+                    android:layout_width="300dp"
+                    android:layout_height="25dp"
+                    android:layout_weight="0.74"
+                    android:gravity="left|center"
+                    android:text="$RTGS 15"
+                    android:textColor="#96281B"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/detailImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/rectangle_7" />
+
+                <LinearLayout
+                    android:layout_width="305dp"
+                    android:layout_height="1dp"
+                    android:background="#aaa"
+                    android:orientation="vertical">
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="300dp"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.74"
+                    android:gravity="left|center"
+                    android:text="Product Details"
+                    android:textColor="#0f596b"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:id="@+id/detailDesc"
+                    android:layout_width="300dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="15.17"
+                    android:gravity="left|center"
+                    android:lineSpacingMultiplier="1.3"
+                    android:text="Cooking Oil"
+                    android:textColor="#aaa"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:gravity="bottom">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:height="60sp"
+            android:background="#0f596b"
+            android:text="Buy Now"
+            android:textColor="#fff"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,81 @@
+[
+  {
+    "_id":1,
+    "_thumbnail": "black",
+    "_name": "Flora Magarine 500g",
+    "_price": "15",
+    "_seller": "Shelf 9 | Promotion",
+    "_sellerlocation": "Bogor",
+    "_description": "Low Fat Magarine"
+  },
+  {
+    "_id":2,
+    "_name": "Delight Cooking Oil 2l",
+    "_price": "19",
+    "_seller": "Shelf 8",
+    "_thumbnail": "white",
+    "_sellerlocation": "Bogor",
+    "_description": "Delight Family Cooling Oil"
+
+  },
+  {
+    "_id":3,
+    "_name": "Green Valley Beans 100g",
+    "_price": "7",
+    "_seller": "Shelf 18 | Promotion",
+    "_thumbnail": "white",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  },
+  {
+    "_id":4,
+    "_name": "Black Cat Butter 150g",
+    "_price": "9",
+    "_seller": "Shelf 5",
+    "_thumbnail": "black",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  },
+  {
+    "_id":5,
+    "_name": "Biltong 100g",
+    "_price": "6",
+    "_thumbnail": "black",
+    "_seller": "Shelf 8 | Promotion",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  },
+  {
+    "_id":6,
+    "_name": "Mayonnaise 100g",
+    "_price": "50",
+    "_seller": "Shelf 7",
+    "_thumbnail": "black",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  },
+  {
+    "_id":7,
+    "_name": "Green Beans 200g",
+    "_price": "56",
+    "_seller": "Shelf 2",
+    "_thumbnail": "white",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  },
+  {
+    "_id":8,
+    "_name": "Melivo Chocolate 129g",
+    "_price": "150",
+    "_seller": "Shelf 19 | Promotion",
+    "_thumbnail": "black",
+    "_sellerlocation": "Bogor",
+    "_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+  }
+]
